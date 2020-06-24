@@ -1,0 +1,21 @@
+{
+    "name": "googly_gyro_rcvr",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "robotbit": "github:kittenbot/pxt-robotbit#v0.3.6"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
